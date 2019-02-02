@@ -1,0 +1,15 @@
+.one_preview_task {
+    display:flex; 
+    justify-content:space-around;
+}
+
+.tasks-item {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.preview_tasks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
